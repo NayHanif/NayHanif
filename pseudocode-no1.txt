@@ -1,0 +1,17 @@
+1. Pseudocode Menentukan nilai pembagian 2 bilangan bulat non-negatif terbesar
+
+deklarasi
+m, n, r, kosong
+m -> 60
+n -> 24
+
+do
+
+r = m % n
+m = n
+n = r
+return m
+
+while (n != 0)
+
+

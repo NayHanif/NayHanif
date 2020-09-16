@@ -1,0 +1,9 @@
+2. Pseudocode Luas segitiga
+Deklarasi
+var luas, tinggi, alas, tampung
+tinggi -> 30
+alas -> 25
+
+tampung = luas * tinggi
+luas = tampung / 2
+write (luas)

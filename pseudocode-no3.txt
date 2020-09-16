@@ -1,0 +1,18 @@
+3. Pseudocode Login akun
+deklarasi :
+var username, password, usermasuk, passmasuk
+
+username -> budi
+password ->anakbaik
+
+scan (usermasuk)
+scan (passmasuk)
+
+if (username == usermasuk && password == passmasuk)
+(show profil)
+else if (username == usermasuk && password != passmasuk)
+write -> password anda salah!
+else
+write -> akun anda tidak terdaftar!
+
+
